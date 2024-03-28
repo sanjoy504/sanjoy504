@@ -3,4 +3,4 @@
 - 🌱 I’m currently Work With pure javascript, React, Next js, Mongo DB, Tailwnd Css, Full stack develoment, MERN STACK Devloment
 - 💞️ I’m looking to collaborate on Web devloment
 - My E-Commerce Platform Mern-Stack Project Link: https://grocerit.netlify.app/
-- My Online Movie Streaming Platform with Next.js Project Link: https://moviesbazaar.vercel.app/
+- My Online Movie Streaming Platform with Next.js Project Link: https://moviesbazar.online/
