@@ -1,6 +1,8 @@
 - 👋 Hi, My Name Is Sanjoy Rakshit
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently Work With pure javascript, React, Next js, Mongo DB, Tailwnd Css, Full stack develoment, MERN STACK Devloment
+- 🌱 I’m currently Work With pure javascript, NodeJs, React, Next.js, MongoDB, Tailwnd Css, Full stack develoment, MERN STACK Devloment
 - 💞️ I’m looking to collaborate on Web devloment
-- My E-Commerce Platform Mern-Stack Project Link: https://grocerit.netlify.app/
-- My Online Movie Streaming Platform with Next.js Project Link: https://moviesbazar.online/
+- 🔒 My all big projects are private for copying reasons
+- 🛒 My E-Commerce Platform Mern-Stack Project Link: https://grocerit.netlify.app/
+- 🎬 My Online Movie Streaming Platform with Next.js Project Link: https://moviesbazar.online/
+- 🌨️ My Media Drive File Backup Online project Like Google Drive Link: https://mediacloud.netlify.app/
