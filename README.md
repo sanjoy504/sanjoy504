@@ -9,4 +9,3 @@ Tailwind CSS for responsive design
 - 🛒 E-Commerce Platform (MERN Stack): [Grocerit](https://grocerit.netlify.app/)
 - 🎬 Online Movie Streaming Platform (Next.js): [MoviesBazar](https://www.moviesbazar.net/)
 - 🌨️ Media Drive File Backup Project (Like Google Drive): [MediaDrive](https://mediadrive.netlify.app/)
-- Feel free to explore my projects, and reach out if you'd like to collaborate!
